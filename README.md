@@ -2,6 +2,8 @@
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![Project Preview](./preview.jpg)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Desktop design](./design/ss-desktop-design.jpg)
-![Screenshot Mobile design](./design/ss-mobile-design.jpg)
+![Screenshot Desktop design](./public/ss-desktop-design.jpg)
+![Screenshot Mobile design](./public/ss-mobile-design.jpg)
 
 ### Built with
 
