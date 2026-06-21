@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Desktop design](./public/ss-desktop-design.jpg)
+![Screenshot Desktop design](./public/ss-desktop-design.png)
 ![Screenshot Mobile design](./public/ss-mobile-design.jpg)
 
 ### Built with
